@@ -1,5 +1,3 @@
-js
-Skopiuj kod
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("submitButton").addEventListener("click", function () {
         checkPassword();
